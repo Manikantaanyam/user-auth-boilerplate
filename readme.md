@@ -1,1 +1,3 @@
-## npm i @anyam/npm-boilerplate
+```bash
+ npm i @anyam/npm-boilerplate
+```
