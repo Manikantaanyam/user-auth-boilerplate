@@ -1,6 +1,6 @@
 {
   "name": "@anyam/npm-boilerplate",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "This is the boilerplate code for signup and login",
   "main": "index.js",
   "type": "module",
